@@ -12,8 +12,7 @@ The code contains notes.
 
 Show of the generated plots:
 
-![image](https://user-images.githubusercontent.com/121183138/209963953-cc624140-4d22-4639-be98-0a750831bfa6.png)
-
+![image](https://user-images.githubusercontent.com/121183138/209964689-e248ef11-bff7-4059-ac76-621d3ba11fc1.png)
 
 ![image](https://user-images.githubusercontent.com/121183138/209964010-5f590e43-98a2-4ff5-8ce0-af28e8b07c01.png)
 
